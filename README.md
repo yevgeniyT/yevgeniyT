@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer: Experienced in different industries, I bring an interdisciplinary approach to finding better solutions in IT and beyond.
 
-🌍 I recently moved to Germany to follow my passion for technology.
+🌍Moved to Germany in 2022 to pursue my passion for tech and transitioned into IT career with a never-give-up attitude towards overcoming challenges.
 
 ## 🚀 Technical Skills
 
