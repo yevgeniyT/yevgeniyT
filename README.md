@@ -4,9 +4,7 @@
 
 🌍 Moved to Germany in 2022 and in the process of transitioning into a career in IT, fueled by my passion for tech and a never-give-up attitude towards overcoming challenges."
 
-<div align="center">
  ## 🚀 Technical Skills
-</div>
 
 🛠️ My tech stack includes:
 
@@ -36,7 +34,7 @@
 
 ## 📬 Get in Touch
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/yevgeniy-tolkachov/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
