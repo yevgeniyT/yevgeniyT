@@ -29,6 +29,12 @@
 
 ## 📬 Get in Touch
 
+
+## 📬 Get in Touch
+
+If you're interested in working with me or learning more about my experience, feel free to get in touch:
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/yevgeniy-tolkachov/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,10 +43,3 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-
-## 📬 Get in Touch
-
-If you're interested in working with me or learning more about my experience, feel free to get in touch:
-
-- [LinkedIn](https://www.linkedin.com/in/yevgeniy-tolkachov/)
