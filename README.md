@@ -1,6 +1,6 @@
 # Hi there, I'm Yevgeniy 👋
 
-🚀 Full Stack Developer: Turning Ideas into Digital Reality 🌐 Experienced in different industries, I bring an interdisciplinary approach to finding better solutions in IT and beyond.
+🚀 Full Stack Developer: Experienced in different industries, I bring an interdisciplinary approach to finding better solutions in IT and beyond.
 
 🌍 I recently moved to Germany to follow my passion for technology.
 
