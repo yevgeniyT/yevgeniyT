@@ -25,8 +25,12 @@
 - Implemented CRM and operational accounting systems
 - Managed teams of up to 15 people
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevgeniyT&layout=compact&theme=dracula" />
+</div>
 
 ## 📬 Get in Touch
 
