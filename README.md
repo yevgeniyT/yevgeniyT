@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🏆 Achievements
+<!-- ## 🏆 Achievements
 
 👥 I've worked as a co-founder and top-manager in different businesses in Ukraine, and my achievements include:
 - Launched 2 new products, one of them being new for Ukraine
@@ -24,7 +24,7 @@
 - Successfully rebranded one of the leading pediatric dental clinics in Ukraine
 - Implemented CRM and operational accounting systems
 - Managed teams of up to 15 people
-
+ -->
 ## 📈 My GitHub Stats
 
 <div align="center">
