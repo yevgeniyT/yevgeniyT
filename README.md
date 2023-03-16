@@ -1,6 +1,6 @@
 # Hi there, I'm Yevgeniy 👋
 
-👨‍💻 I'm a Full-Stack Developer with a unique background in International Economics, Civil and Industrial Building, and business management.
+🚀 Full Stack Developer: Turning Ideas into Digital Reality 🌐 Experienced in different industries, I bring an interdisciplinary approach to finding better solutions in IT and beyond.
 
 🌍 I recently moved to Germany to follow my passion for technology.
 
