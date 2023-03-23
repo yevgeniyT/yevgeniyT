@@ -30,7 +30,7 @@
 - Managed teams of up to 15 people
  -->
 ## 📈 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true)
 <div align="leftr">
   <img src="https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevgeniyT&layout=compact&theme=dracula" />
