@@ -31,6 +31,7 @@
  -->
 ## 📈 My GitHub Stats
 ![Yevgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true)
+![Yevgeniy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yevgeniyT&layout=compact&theme=dracula)
 <div align="leftr">
   <img src="https://github-readme-stats.vercel.app/api?username=yevgeniyT&show_icons=true&theme=dracula&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevgeniyT&layout=compact&theme=dracula" />
